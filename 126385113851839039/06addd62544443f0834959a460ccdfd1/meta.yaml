@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Swin-Transformer-fed/mlruns/126385113851839039/06addd62544443f0834959a460ccdfd1/artifacts
+end_time: 1735327337254
+entry_point_name: ''
+experiment_id: '126385113851839039'
+lifecycle_stage: active
+run_id: 06addd62544443f0834959a460ccdfd1
+run_name: awesome-bug-116
+run_uuid: 06addd62544443f0834959a460ccdfd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735308261043
+status: 3
+tags: []
+user_id: unknown

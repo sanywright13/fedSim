@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Swin-Transformer-fed/mlruns/126385113851839039/e9de4c45e5874e848a5430dc02172dfd/artifacts
+end_time: 1735327339540
+entry_point_name: ''
+experiment_id: '126385113851839039'
+lifecycle_stage: active
+run_id: e9de4c45e5874e848a5430dc02172dfd
+run_name: stylish-moose-472
+run_uuid: e9de4c45e5874e848a5430dc02172dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735308727383
+status: 3
+tags: []
+user_id: unknown

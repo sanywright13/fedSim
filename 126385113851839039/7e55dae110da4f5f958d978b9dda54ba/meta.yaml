@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Swin-Transformer-fed/mlruns/126385113851839039/7e55dae110da4f5f958d978b9dda54ba/artifacts
+end_time: 1735327339628
+entry_point_name: ''
+experiment_id: '126385113851839039'
+lifecycle_stage: active
+run_id: 7e55dae110da4f5f958d978b9dda54ba
+run_name: able-whale-499
+run_uuid: 7e55dae110da4f5f958d978b9dda54ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735308743942
+status: 3
+tags: []
+user_id: unknown
