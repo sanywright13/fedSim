@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Swin-Transformer-fed/mlruns/851321791872988142/a41f0aa7b0934363b8e1e008524b8597/artifacts
+end_time: 1736884048891
+entry_point_name: ''
+experiment_id: '851321791872988142'
+lifecycle_stage: active
+run_id: a41f0aa7b0934363b8e1e008524b8597
+run_name: orderly-calf-896
+run_uuid: a41f0aa7b0934363b8e1e008524b8597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736871082173
+status: 3
+tags: []
+user_id: unknown

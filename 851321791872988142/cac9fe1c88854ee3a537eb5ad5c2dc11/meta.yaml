@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Swin-Transformer-fed/mlruns/851321791872988142/cac9fe1c88854ee3a537eb5ad5c2dc11/artifacts
+end_time: 1736884052364
+entry_point_name: ''
+experiment_id: '851321791872988142'
+lifecycle_stage: active
+run_id: cac9fe1c88854ee3a537eb5ad5c2dc11
+run_name: indecisive-bee-911
+run_uuid: cac9fe1c88854ee3a537eb5ad5c2dc11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736869265299
+status: 3
+tags: []
+user_id: unknown
